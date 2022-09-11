@@ -1,7 +1,8 @@
 /******************************************************************************
 
 Author: Abdullah Mohammed Abdullah farg
-Author and ID and Group: Selsabeel Asim Ali Elbagir
+Author: Selsabeel A.
+Author: Abdelrhman Amer Ali
 Course: CS112
 Instructor: Doctor Mohamed_Elramly
 Assignment: 2
